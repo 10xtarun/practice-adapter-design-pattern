@@ -1,0 +1,16 @@
+{
+  "name": "2_adapter_in_nodejs",
+  "version": "1.0.0",
+  "description": "trying adapter pattern in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "adapter",
+    "designpatterns"
+  ],
+  "author": "Tarun Singh",
+  "license": "ISC"
+}
