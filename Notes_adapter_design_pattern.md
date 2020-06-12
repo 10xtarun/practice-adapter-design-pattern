@@ -12,9 +12,9 @@
 > In naive terms, two classes may perform same or similar task but have different interface and that's why they need to be connected in adapter pattern
 
 ## Examples from
-* [ADPinJS]("https://www.dofactory.com/javascript/adapter-design-pattern")
+* [ADPinJS] ("https://www.dofactory.com/javascript/adapter-design-pattern")
 * ADP is exact analogous of travel adapter which we use in real world, this adapter can fit to any electrical socket
-* [AdapterInNodeJs]("https://softwarebrothers.co/blog/adapter-pattern-in-node-js/")
+* [AdapterInNodeJs] ("https://softwarebrothers.co/blog/adapter-pattern-in-node-js/")
 
 ## Takeaways from Examples
 > we can term the adapter as, one of the way to make old code workable along with implementing new code
