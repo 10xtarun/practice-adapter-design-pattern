@@ -13,7 +13,7 @@ module.exports = function  FacebookAdapter(){
             data: [
                 {
                     message: "Hello, We are from Mumbai!",
-                    type: 'text/post',
+                    type: 'video',
                     id: "1234567890",
                 }
             ]

@@ -4,8 +4,9 @@ var app = express();
 
 var FetchPage = require('services/fetchPage');
 
-app.get('facebook/page/:id', function(req, res) {
+app.get('/:id', function(req, res) {
     var pageId = req.params.id;
+    console.log(pageId);
     new FetchPage().run(pageId)
     .then(function(page) {res.status(200).send(page);})
     .catch(
